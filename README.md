@@ -16,13 +16,21 @@ User will type in video game title in the search bar and designate a region. The
 
 ## Screenshot
 
-![alt text] (image.jpg)
+The following screenshot displays the finalized look for the video game price checker app:
+
+![A user will input the title of the game they are searching for and select the region they are currently in. The app will then display the price of the game selected based on the region the user provided. There is also a spotify playlist present in the top left corner to give the user a more immersive experience within the website.](./images/finished%20app.JPG)
 
 ## Credits
 
+<<<<<<< HEAD
 Adam Latham
 Nathan Phan
 Giovanni Galeana 
+=======
+Adam Latham /
+Nathan Phan /
+Giovanni Galeana
+>>>>>>> 69531944bf8f43a02bc590e8e722082e3d5a5c88
 
 ## License
 

@@ -13,6 +13,7 @@ label {
     color: azure
 }
 
+
 .hero-image {
     background-image:url("images/outrun.gif");
    min-height: 100vh;
@@ -57,5 +58,8 @@ label {
     }
   }
 
+<<<<<<< HEAD
 
  
+=======
+>>>>>>> 69531944bf8f43a02bc590e8e722082e3d5a5c88
